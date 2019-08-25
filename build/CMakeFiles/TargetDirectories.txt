@@ -1,4 +1,0 @@
-/home/nam/minesweeper/build/CMakeFiles/edit_cache.dir
-/home/nam/minesweeper/build/CMakeFiles/rebuild_cache.dir
-/home/nam/minesweeper/build/CMakeFiles/play.dir
-/home/nam/minesweeper/build/CMakeFiles/minesweeper.dir
